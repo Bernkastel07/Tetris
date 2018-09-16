@@ -1,0 +1,12 @@
+﻿  Block.cpp
+Block.cpp(10): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Buffer.cpp
+Buffer.cpp(35): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  main.cpp
+  Map.cpp
+  코드를 생성하고 있습니다.
+  182 of 191 functions (95.3%) were compiled, the rest were copied from previous compilation.
+    164 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Project49.vcxproj -> c:\users\ms103\documents\visual studio 2017\Projects\Project49\Release\Project49.exe
